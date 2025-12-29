@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+anthropic
+xlsxwriter
+google-genai
